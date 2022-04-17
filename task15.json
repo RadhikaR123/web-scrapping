@@ -1,0 +1,602 @@
+{
+  "Black Panther (2018)": [
+    {
+      "name": "Ryan Coogler",
+      "num": 1
+    }
+  ],
+  "Avengers: Endgame (2019)": [
+    {
+      "name": "Anthony Russo",
+      "num": 1
+    }
+  ],
+  "Mission: Impossible - Fallout (2018)": [
+    {
+      "name": "Christopher McQuarrie",
+      "num": 1
+    }
+  ],
+  "Mad Max: Fury Road (2015)": [
+    {
+      "name": "George Miller",
+      "num": 1
+    }
+  ],
+  "Spider-Man: Into the Spider-Verse (2018)": [
+    {
+      "name": "Bob Persichetti",
+      "num": 1
+    }
+  ],
+  "Wonder Woman (2017)": [
+    {
+      "name": "Patty Jenkins",
+      "num": 1
+    }
+  ],
+  "Logan (2017)": [
+    {
+      "name": "James Mangold",
+      "num": 1
+    }
+  ],
+  "Coco (2017)": [
+    {
+      "name": "Lee Unkrich",
+      "num": 1
+    }
+  ],
+  "Dunkirk (2017)": [
+    {
+      "name": "Christopher Nolan",
+      "num": 1
+    }
+  ],
+  "Star Wars: The Last Jedi (2017)": [
+    {
+      "name": "Rian Johnson",
+      "num": 1
+    }
+  ],
+  "Thor: Ragnarok (2017)": [
+    {
+      "name": "Taika Waititi",
+      "num": 1
+    }
+  ],
+  "Seven Samurai (Shichinin no Samurai) (1956)": [
+    {
+      "name": "Akira Kurosawa",
+      "num": 1
+    }
+  ],
+  "Star Wars: Episode VII - The Force Awakens (2015)": [
+    {
+      "name": "J.J. Abrams",
+      "num": 1
+    }
+  ],
+  "Metropolis (1927)": [
+    {
+      "name": "Fritz Lang",
+      "num": 1
+    }
+  ],
+  "Soul (2020)": [
+    {
+      "name": "Pete Docter",
+      "num": 1
+    }
+  ],
+  "The Adventures of Robin Hood (1938)": [
+    {
+      "name": "Michael Curtiz",
+      "num": 1
+    }
+  ],
+  "Spider-Man: Far From Home (2019)": [
+    {
+      "name": "Jon Watts",
+      "num": 1
+    }
+  ],
+  "Incredibles 2 (2018)": [
+    {
+      "name": "Brad Bird",
+      "num": 1
+    }
+  ],
+  "Zootopia (2016)": [
+    {
+      "name": "Byron Howard",
+      "num": 1
+    }
+  ],
+  "King Kong (1933)": [
+    {
+      "name": "Merian C. Cooper",
+      "num": 1
+    }
+  ],
+  "War for the Planet of the Apes (2017)": [
+    {
+      "name": "Matt Reeves",
+      "num": 1
+    }
+  ],
+  "Baby Driver (2017)": [
+    {
+      "name": "Edgar Wright",
+      "num": 1
+    }
+  ],
+  "Spider-Man: Homecoming (2017)": [
+    {
+      "name": "Jon Watts",
+      "num": 1
+    }
+  ],
+  "The Bridge on the River Kwai (1957)": [
+    {
+      "name": "David Lean",
+      "num": 1
+    }
+  ],
+  "Jaws (1975)": [
+    {
+      "name": "Steven Spielberg",
+      "num": 1
+    }
+  ],
+  "Up (2009)": [
+    {
+      "name": "Pete Docter",
+      "num": 1
+    }
+  ],
+  "Shazam! (2019)": [
+    {
+      "name": "David F. Sandberg",
+      "num": 1
+    }
+  ],
+  "The Dark Knight (2008)": [
+    {
+      "name": "Christopher Nolan",
+      "num": 1
+    }
+  ],
+  "The Treasure of the Sierra Madre (1948)": [
+    {
+      "name": "John Huston",
+      "num": 1
+    }
+  ],
+  "Lawrence of Arabia (1962)": [
+    {
+      "name": "David Lean",
+      "num": 1
+    }
+  ],
+  "Captain America: Civil War (2016)": [
+    {
+      "name": "Anthony Russo",
+      "num": 1
+    }
+  ],
+  "Blade Runner 2049 (2017)": [
+    {
+      "name": "Denis Villeneuve",
+      "num": 1
+    }
+  ],
+  "Skyfall (2012)": [
+    {
+      "name": "Sam Mendes",
+      "num": 1
+    }
+  ],
+  "The 39 Steps (1935)": [
+    {
+      "name": "Alfred Hitchcock",
+      "num": 1
+    }
+  ],
+  "The French Connection (1971)": [
+    {
+      "name": "William Friedkin",
+      "num": 1
+    }
+  ],
+  "The Jungle Book (2016)": [
+    {
+      "name": "Jon Favreau",
+      "num": 1
+    }
+  ],
+  "Harry Potter and the Deathly Hallows - Part 2 (2011)": [
+    {
+      "name": "David Yates",
+      "num": 1
+    }
+  ],
+  "Mission: Impossible Rogue Nation (2015)": [
+    {
+      "name": "Christopher McQuarrie",
+      "num": 1
+    }
+  ],
+  "The Hurt Locker (2009)": [
+    {
+      "name": "Kathryn Bigelow",
+      "num": 1
+    }
+  ],
+  "Apocalypse Now (1979)": [
+    {
+      "name": "Francis Ford Coppola",
+      "num": 1
+    }
+  ],
+  "Avengers: Infinity War (2018)": [
+    {
+      "name": "Anthony Russo",
+      "num": 1
+    }
+  ],
+  "The LEGO Movie (2014)": [
+    {
+      "name": "Phil Lord",
+      "num": 1
+    }
+  ],
+  "Star Trek (2009)": [
+    {
+      "name": "J.J. Abrams",
+      "num": 1
+    }
+  ],
+  "Ant-Man and the Wasp (2018)": [
+    {
+      "name": "Peyton Reed",
+      "num": 1
+    }
+  ],
+  "Moana (2016)": [
+    {
+      "name": "John Musker",
+      "num": 1
+    }
+  ],
+  "Isle of Dogs (2018)": [
+    {
+      "name": "Wes Anderson",
+      "num": 1
+    }
+  ],
+  "Guardians of the Galaxy (2014)": [
+    {
+      "name": "James Gunn",
+      "num": 1
+    }
+  ],
+  "Kubo and the Two Strings (2016)": [
+    {
+      "name": "Travis Knight",
+      "num": 1
+    }
+  ],
+  "Goldfinger (1964)": [
+    {
+      "name": "Guy Hamilton",
+      "num": 1
+    }
+  ],
+  "Wolfwalkers (2020)": [
+    {
+      "name": "Tomm Moore",
+      "num": 1
+    }
+  ],
+  "Star Wars: Episode IV - A New Hope (1977)": [
+    {
+      "name": "George Lucas",
+      "num": 1
+    }
+  ],
+  "Stagecoach (1939)": [
+    {
+      "name": "John Ford",
+      "num": 1
+    }
+  ],
+  "Marvel's The Avengers (2012)": [
+    {
+      "name": "Joss Whedon",
+      "num": 1
+    }
+  ],
+  "WALL-E (2008)": [
+    {
+      "name": "Andrew Stanton",
+      "num": 1
+    }
+  ],
+  "Paths of Glory (1957)": [
+    {
+      "name": "Stanley Kubrick",
+      "num": 1
+    }
+  ],
+  "Iron Man (2008)": [
+    {
+      "name": "Jon Favreau",
+      "num": 1
+    }
+  ],
+  "The Terminator (1984)": [
+    {
+      "name": "James Cameron",
+      "num": 1
+    }
+  ],
+  "Hunt for the Wilderpeople (2016)": [
+    {
+      "name": "Taika Waititi",
+      "num": 1
+    }
+  ],
+  "The African Queen (1951)": [
+    {
+      "name": "John Huston",
+      "num": 1
+    }
+  ],
+  "Raya and the Last Dragon (2021)": [
+    {
+      "name": "Don Hall",
+      "num": 1
+    }
+  ],
+  "Doctor Strange (2016)": [
+    {
+      "name": "Scott Derrickson",
+      "num": 1
+    }
+  ],
+  "The Princess Bride (1987)": [
+    {
+      "name": "Rob Reiner",
+      "num": 1
+    }
+  ],
+  "The Taking of Pelham One Two Three (1974)": [
+    {
+      "name": "Joseph Sargent",
+      "num": 1
+    }
+  ],
+  "John Wick: Chapter 3 - Parabellum (2019)": [
+    {
+      "name": "Chad Stahelski",
+      "num": 1
+    }
+  ],
+  "The Peanut Butter Falcon (2019)": [
+    {
+      "name": "Tyler Nilson",
+      "num": 1
+    }
+  ],
+  "Aliens (1986)": [
+    {
+      "name": "James Cameron",
+      "num": 1
+    }
+  ],
+  "Star Wars: Episode V - The Empire Strikes Back (1980)": [
+    {
+      "name": "Irvin Kershner",
+      "num": 1
+    }
+  ],
+  "True Grit (2010)": [
+    {
+      "name": "Joel Coen",
+      "num": 1
+    }
+  ],
+  "The Suicide Squad (2021)": [
+    {
+      "name": "James Gunn",
+      "num": 1
+    }
+  ],
+  "X-Men: Days of Future Past (2014)": [
+    {
+      "name": "Bryan Singer",
+      "num": 1
+    }
+  ],
+  "All Is Lost (2013)": [
+    {
+      "name": "J.C. Chandor",
+      "num": 1
+    }
+  ],
+  "Looper (2012)": [
+    {
+      "name": "Rian Johnson",
+      "num": 1
+    }
+  ],
+  "Casino Royale (2006)": [
+    {
+      "name": "Martin Campbell",
+      "num": 1
+    }
+  ],
+  "Badlands (1974)": [
+    {
+      "name": "Terrence Malick",
+      "num": 1
+    }
+  ],
+  "The Lego Batman Movie (2017)": [
+    {
+      "name": "Chris McKay",
+      "num": 1
+    }
+  ],
+  "Guardians of the Galaxy Vol. 2 (2017)": [
+    {
+      "name": "James Gunn",
+      "num": 1
+    }
+  ],
+  "Chicken Run (2000)": [
+    {
+      "name": "Peter Lord",
+      "num": 1
+    }
+  ],
+  "Stalker (1979)": [
+    {
+      "name": "Andrei Tarkovsky",
+      "num": 1
+    }
+  ],
+  "No Country for Old Men (2007)": [
+    {
+      "name": "Joel Coen",
+      "num": 1
+    }
+  ],
+  "Dawn Of The Planet Of The Apes (2014)": [
+    {
+      "name": "Matt Reeves",
+      "num": 1
+    }
+  ],
+  "Captain Marvel (2019)": [
+    {
+      "name": "Anna Boden",
+      "num": 1
+    }
+  ],
+  "Sicario (2015)": [
+    {
+      "name": "Denis Villeneuve",
+      "num": 1
+    }
+  ],
+  "Onward (2020)": [
+    {
+      "name": "Dan Scanlon",
+      "num": 1
+    }
+  ],
+  "From Russia With Love (1964)": [
+    {
+      "name": "Terence Young",
+      "num": 1
+    }
+  ],
+  "Ran (1985)": [
+    {
+      "name": "Akira Kurosawa",
+      "num": 1
+    }
+  ],
+  "Jurassic Park (1993)": [
+    {
+      "name": "Steven Spielberg",
+      "num": 1
+    }
+  ],
+  "A Fistful of Dollars (Per un Pugno di Dollari) (1964)": [
+    {
+      "name": "Sergio Leone",
+      "num": 1
+    }
+  ],
+  "Henry V (1989)": [
+    {
+      "name": "Kenneth Branagh",
+      "num": 1
+    }
+  ],
+  "The Lord of the Rings: The Two Towers (2002)": [
+    {
+      "name": "Peter Jackson",
+      "num": 1
+    }
+  ],
+  "Ghostbusters (1984 Original) (1984)": [
+    {
+      "name": "Ivan Reitman",
+      "num": 1
+    }
+  ],
+  "Captain America: The Winter Soldier (2014)": [
+    {
+      "name": "Anthony Russo",
+      "num": 1
+    }
+  ],
+  "Rio Bravo (1959)": [
+    {
+      "name": "Howard Hawks",
+      "num": 1
+    }
+  ],
+  "The Lion King (1994)": [
+    {
+      "name": "Roger Allers",
+      "num": 1
+    }
+  ],
+  "Deadpool 2 (2018)": [
+    {
+      "name": "David Leitch",
+      "num": 1
+    }
+  ],
+  "The Seventh Seal (Det Sjunde inseglet) (1957)": [
+    {
+      "name": "Ingmar Bergman",
+      "num": 1
+    }
+  ],
+  "Crouching Tiger, Hidden Dragon (2001)": [
+    {
+      "name": "Ang Lee",
+      "num": 1
+    }
+  ],
+  "Back to the Future (1985)": [
+    {
+      "name": "Robert Zemeckis",
+      "num": 1
+    }
+  ],
+  "The Searchers (1956)": [
+    {
+      "name": "John Ford",
+      "num": 1
+    }
+  ],
+  "Bullitt (1968)": [
+    {
+      "name": "Peter Yates",
+      "num": 1
+    }
+  ],
+  "The Fugitive (1993)": [
+    {
+      "name": "Andrew Davis",
+      "num": 1
+    }
+  ]
+}
